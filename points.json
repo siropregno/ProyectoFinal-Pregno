@@ -1,0 +1,8 @@
+{"options": [
+    { "id":1, "name":"option1","image":"https://cdn.discordapp.com/attachments/962507389163143279/1042185270948278292/op1.png","price":4.99,"amount":4000},
+    { "id":2, "name":"option2","image":"https://cdn.discordapp.com/attachments/962507389163143279/1042185271246065720/op2.png","price":9.99,"amount":8500},
+    { "id":3, "name":"option3","image":"https://cdn.discordapp.com/attachments/962507389163143279/1042185271569023057/op3.png","price":14.99,"amount":11000},
+    { "id":4, "name":"option4","image":"https://cdn.discordapp.com/attachments/962507389163143279/1042185271896190976/op4.png","price":19.99,"amount":18000},
+    { "id":5, "name":"option5","image":"https://cdn.discordapp.com/attachments/962507389163143279/1042185272219144222/op5.png","price":39.99,"amount":37000},
+    { "id":6, "name":"option6","image":"https://cdn.discordapp.com/attachments/962507389163143279/1042185272537907312/op6.png","price":59.99,"amount":56000}
+]}
